@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "ma.projet.soapclient.app-mergeDebugResources-31:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kawta\\.gradle\\caches\\8.11.1\\transforms\\b04c78aac97f1602e98a85810cd7e192\\transformed\\appcompat-1.7.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

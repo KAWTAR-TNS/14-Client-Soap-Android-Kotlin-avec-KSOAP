@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_500
+color white
+drawable ic_launcher_background
+drawable ic_launcher_background_generic
+drawable ic_launcher_foreground
+drawable ic_launcher_foreground_generic
+id btnDelete
+id btnEdit
+id etSolde
+id fabAdd
+id radioCourant
+id radioEpargne
+id recyclerView
+id textDate
+id textId
+id textSolde
+id textType
+id tilSolde
+id typeGroup
+layout activity_main
+layout item
+layout popup
+mipmap ic_launcher
+mipmap ic_launcher_generic
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.SOAPCompteApp
+style Theme.SOAPCompteApp
+xml backup_rules
+xml data_extraction_rules

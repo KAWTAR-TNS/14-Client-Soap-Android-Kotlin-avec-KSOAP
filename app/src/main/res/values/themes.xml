@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Thème de base de l'application. -->
+    <style name="Base.Theme.SOAPCompteApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Personnalisez votre thème clair ici. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.SOAPCompteApp" parent="Base.Theme.SOAPCompteApp" />
+</resources>

@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Thème de base de l'application. -->
+    <style name="Base.Theme.SOAPCompteApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Personnalisez votre thème sombre ici. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+</resources>

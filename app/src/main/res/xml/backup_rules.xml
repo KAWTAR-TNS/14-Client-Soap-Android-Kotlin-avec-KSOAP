@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+   Exemple de fichier de règles de sauvegarde ; décommentez et personnalisez si nécessaire.
+   Voir https://developer.android.com/guide/topics/data/autobackup
+   pour les détails.
+   Remarque : Ce fichier est ignoré pour les appareils antérieurs à l'API 31
+   Voir https://developer.android.com/about/versions/12/backup-restore
+-->
+<full-backup-content>
+    <!--
+   <include domain="sharedpref" path="."/>
+   <exclude domain="sharedpref" path="device.xml"/>
+-->
+</full-backup-content>
